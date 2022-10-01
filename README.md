@@ -2,7 +2,7 @@
 
 My name is Gabriel Sousa Mijoler
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmijoler&layout=compact&theme=highcontrast)](https://github.com/gabrielmijoler/Front-tcc) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmijoler&layout=compact&theme=highcontrast)](https://github.com/gabrielmijoler/Front-tcc)  <br/>
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gabrielmijoler&show_icons=true&theme=dracula&count_private)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gabrielmijoler) 
