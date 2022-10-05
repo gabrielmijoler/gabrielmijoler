@@ -1,4 +1,4 @@
-## Olá eu sou a Gabriel, sou Desenvolvedor, aprimorando meu conhecimento em Back-end e Banco de Dados!
+## Bem vindo ao meu repositório, eu sou o Gabriel, sou Desenvolvedor, aprimorando meu conhecimento em Back-end e Banco de Dados!
 
 <div align="center">
   <a href="https://github.com/gabrielmijoler">
