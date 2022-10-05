@@ -1,5 +1,7 @@
-## Welcome to my repository, my name is Gabriel, I'm Developer, improving my knowledge in Back-End and Database
+## :hello Welcome to my repository, my name is Gabriel, I'm Developer, improving my knowledge in Back-End and Database.
+#### I have more practical and knowledge in Mobile, my project academic is an apk, that I use React Native, Node.js, TypeScript and MySQL. Framewok: Express, Sequelize, some lib for React Native.
 
+</br>
 <div align="center">
   <a href="https://github.com/gabrielmijoler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmijoler&layout=compact&theme=highcontrast"/>
