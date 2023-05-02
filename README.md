@@ -10,7 +10,7 @@
 </div>
 
 ### Experiências
-- [ ] <img align="center" alt="UOL LOGO" height="34" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - 04/2023)
+- [ ] <img align="center" alt="UOL LOGO" height="34" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Estagiário de desenvolvimento front-end (11/2022 - 04/2023)
   
 <div style="display: inline_block" ><br>
   <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
